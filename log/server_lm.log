@@ -1,0 +1,3 @@
+2022-08-26 20:22:20 INFO  PruebaUnidad3LmApplication:62 - Consulta simple codigo de barras: Producto [id=1, codigoBarras=ab1, nombre=pantalon, categoria=vestimenta, stock=120, precio=25.00]
+2022-08-26 20:22:20 INFO  PruebaUnidad3LmApplication:76 - Ventas realizadas: [VentaReporte [codigoBarras=ab1, categoria=vestimenta, cantidad=10, precioUnitario=25.00, subtotal=250.00], VentaReporte [codigoBarras=ab1, categoria=vestimenta, cantidad=10, precioUnitario=25.00, subtotal=250.00]]
+2022-08-26 20:22:20 INFO  PruebaUnidad3LmApplication:81 - Consulta Stock: ProductoStock [codigoBarras=ab1, nombre=pantalon, categoria=vestimenta, stock=110]
